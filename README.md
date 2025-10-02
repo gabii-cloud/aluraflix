@@ -21,3 +21,16 @@
               <h2>2.links e imagens </h2>
             <!--<h1>titulo principal-->
             <!--<h2>titulo secundário-->
+            <!--<h3>título terciário -->
+            <!--<h4>,<h5>,<h6> texto-->
+                <p> usamos&it;2&gt;para linhas&it;ing&gt; para imagens, </p>p>
+                <a href="HTTPS://www.exemplo.com"> exemplo de link</a>
+                <img src="imagem.jpg" alt="exemplo de imagem>
+  </section>
+  <section>
+    <h2>
+     <p> crie formulários usando
+&it;form &gt;<!--<form>--> &it;input &gt;
+<!--<imput>-->.</p>
+  </section>
+
